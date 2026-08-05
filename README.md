@@ -3,7 +3,7 @@
 **Participant Name:** Avyay J Das
 **MUID:** avyayjdas@mulearn
 
-**Live Deployment:** _<paste your Streamlit Community Cloud URL here after deploying — see "Deploying" section below>_
+**Live Deployment:** https://datascienceday11-mvrlugqibqkm5xz6umtrvf.streamlit.app/
 
 ---
 
