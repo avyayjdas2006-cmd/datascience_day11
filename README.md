@@ -155,7 +155,7 @@ streamlit run app.py
    known LangChain/Pydantic typing bug. See "Challenges Faced" below.)
 4. In **Advanced settings → Secrets**, add:
    ```toml
-   GROQ_API_KEY = "your-groq-api-key-here"
+   GROQ_API_KEY = "AQ.Ab8RN6IzA-CkU0dZV0V086zykOMYv4aIcfGcwkL9wapDzBTahA"
    ```
 5. Click **Deploy**. Once live, paste the public URL at the top of this
    README and in your submission.
